@@ -5,7 +5,7 @@ terraform {
     organization = "example-org-5d36be"
 
     workspaces {
-      name = "test-workspace"
+      name = "dep-az-sql-workspace"
     }
   }
 
